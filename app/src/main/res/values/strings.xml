@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">ActivityTaskTest</string>
+  <string name="to_one_activity">To OneActivity</string>
+  <string name="to_two_activity">To TwoActivity</string>
+  <string name="to_three_activity">To ThreeActivity</string>
+  <string name="one_activity">OneActivity</string>
+  <string name="two_activity">TwoActivity</string>
+  <string name="three_activity">ThreeActivity</string>
+</resources>
